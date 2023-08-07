@@ -22,7 +22,7 @@ body {
     height: 100%;
     width: 100%;
     display: grid;
-    grid-template-columns: 1.25fr 5fr;
+    grid-template-columns: 1.35fr 5fr;
     grid-template-rows: .8fr 5fr;
     grid-template-areas: 
         "sidebar navbar"
